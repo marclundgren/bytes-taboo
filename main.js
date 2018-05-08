@@ -366,7 +366,7 @@ const shuffle = (array) => {
 }
 
 Vue.component('card-item', {
-  template: '<div class="card"><img v-bind:src="url" /></div>',
+  template: '<div class="card" style="cursor:pointer;"><img v-bind:src="url" /></div>',
   props: ['url'],
 })
 

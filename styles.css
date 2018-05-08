@@ -122,3 +122,14 @@ body {
 0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
  100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
 }
+
+/* spooky witchwood theme */
+body {
+  background: url(https://user-images.githubusercontent.com/1154834/39736691-13f90b8e-5236-11e8-9ac5-08b29eb2691f.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
